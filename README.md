@@ -30,8 +30,6 @@ To build a prediction model that classifies passengers into **Survived / Not Sur
 ✔ Model building & training  
 ✔ Accuracy and confusion matrix evaluation  
 
-> *Your `.ipynb` contains the full workflow.*
-
 ---
 
 ## 🔥 What This Model Shows
